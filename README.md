@@ -142,6 +142,7 @@ These scientific articles cite Judge0.
 * [Big Data based Advanced Lab Analysis System using Apache Spark](https://ieeexplore.ieee.org/abstract/document/9489186)
 * [BrainCode: A Coding Practice Platform with AI-Assisted Learning andReal-Time Code Execution](https://ijrpr.com/uploads/V7ISSUE5/IJRPR64488.pdf)
 * [Bridging code and timely feedback: integrating generative AI into a programming platform](https://peerj.com/articles/cs-3070/)
+* [Bridging Functional Correctness and Runtime Efficiency Gaps in LLM-Based Code Translation](https://www.researchgate.net/publication/407172299_Bridging_Functional_Correctness_and_Runtime_Efficiency_Gaps_in_LLM-Based_Code_Translation)
 * [Building a Comprehensive Automated Programming Assessment System](https://ieeexplore.ieee.org/document/9079865)
 * [Canvas Coding: una piattaforma di gioco per studenti basata sulla programmazione creativa = Canvas Coding: a gaming platform for students based on creative programming](https://webthesis.biblio.polito.it/29496/)
 * [Code Master: A Web-Based Competitive Programming Practice Platform](https://www.ijsreat.com/archiver/archives/code_master_a_web_based_competitive_programming_practice_platform.pdf)
