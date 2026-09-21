@@ -180,6 +180,7 @@ These scientific articles cite Judge0.
 * [Large Language Models in der Berufsausbildung von IT-Fachkräften]()
 * [Learn To Code Fast](https://www.ijert.org/learn-to-code-fast)
 * [Learn With Cresvia: AI Powered Gamified learning and Coding Platform for Engineering Students](https://www.ijraset.com/best-journal/learnwithcresvia-ai-powered-gamified-learning-and-coding-platform-for-engineering-students)
+* [Look Before You Prompt, and After: Scaffolding Human-AI Collaboration in Software Tutorial Creation](https://arxiv.org/pdf/2609.05563v1)
 * [MAGECODE: Machine-Generated Code Detection Method Using Large Language Models](https://ieeexplore.ieee.org/abstract/document/10772217)
 * [Modul za obavljanje korisnički definiranih programa u sustavu za automatsko ocjenjivanje programskog kôda Edgar](https://repozitorij.fer.unizg.hr/en/islandora/object/fer%3A12816)
 * [My Code Weapon: Adaptive Problem Recommendation and Knowledge Retention Scheduling in AI-assisted Programming Education](https://dl.acm.org/doi/epdf/10.1145/3774398.3811573)
